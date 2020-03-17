@@ -10,6 +10,16 @@
       "link": "http://www.health.gov.tt/news/"
     },
     {
+      "icon": "newspaper",
+      "title": "News.Gov.TT",
+      "link": "http://www.news.gov.tt/features-and-analysis/health"
+    },
+    {
+      "icon": "newspaper",
+      "title": "Trinidad Express Newspaper",
+      "link": "https://trinidadexpress.com"
+    },
+    {
       "icon": "compass",
       "title": "World Health Organization Website",
       "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
@@ -18,15 +28,5 @@
       "icon": "twitter",
       "title": "WHO Twitter",
       "link": "https://twitter.com/WHO"
-    },
-    {
-      "icon": "newspaper",
-      "title": "News.Gov.TT",
-      "link": "http://www.news.gov.tt/features-and-analysis/health"
-    },
-    {
-      "icon": "newspaper",
-      "title": "Ministry of Health Website",
-      "link": "https://trinidadexpress.com"
     }
 ]
